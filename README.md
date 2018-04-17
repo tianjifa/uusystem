@@ -4,7 +4,7 @@
 
 # Demo
 ![名称](./uusystem/img/1.png)
-> [优优系统官网](https://www.uusytem.com)
+> [优优系统官网](https://www.uusystem.com)
 
 
 ## beta _测试版_
